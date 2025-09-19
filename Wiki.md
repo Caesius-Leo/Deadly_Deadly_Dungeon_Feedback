@@ -1,6 +1,6 @@
 # Deadly Deadly Dungeon — Wiki - WIP
 
-> **Deadly Deadly Dungeon (DDD)** is a Minecraft datapack that adds large, procedurally generated dungeons with bosses, loot, and exploration-focused mechanics. This repository-style wiki is written for placement on GitHub (README.md + docs) and aims to remove common confusions players have about the datapack.
+> **Deadly Deadly Dungeon (DDD)** is a Minecraft datapack that adds large, procedurally generated dungeons with bosses, loot, and exploration-focused mechanics. This repository-style wiki aims to remove common confusions players have about the datapack and help if you need more informations
 
 ---
 
@@ -183,7 +183,7 @@ This makes every dungeon run feel unique: you may recognize the dungeon *type* b
   - Server vs singleplayer and any other datapacks/mods present
 ---
 
-## FAQ (short answers to common confusions)
+## FAQ
 
 **Q:** Where are the vaults?  
 **A:** In the boss room near the boss spawner — *except* Wizard Tower (top floor). Keys are dropped by the trial spawners after you kill the boss.
